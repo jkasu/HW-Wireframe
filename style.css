@@ -1,0 +1,167 @@
+
+
+
+
+#wrapper {
+    
+    width: 100%;
+    height: 800px;
+   background: #777;
+   content: #ebebeb
+}
+
+
+body {
+    font-size: 24px;
+    line-height: 32px;
+    color: #333;
+    
+  }
+  
+  
+  
+  header {
+    width: 80%;
+    /* centers element */
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background:white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+  }
+  
+  nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: white;
+    font-family: Arial;
+    font-size: 18px;
+  }
+  
+  
+  #full {
+    width: 37%;
+    overflow: auto;
+    clear: both;
+    background: white;
+    margin: 0 auto;
+    float: left;
+    padding: 20px;
+    margin-left: 9%;
+    border-bottom: 10px;
+    margin-bottom: 20px;    
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+   
+    
+  }
+  
+  #division {
+    padding: 20px;
+    margin-bottom: 30px;
+    background: #ccc;
+    width: 83%;
+    margin: 0 auto;
+  
+  }
+  
+  aside {
+    float: right;
+    width: 38%;
+    height: 355px;
+    padding: 20px;
+    margin-left: 10px;
+    background: #fff;
+    border: 1px solid #ccc;
+    margin-right: 130px;;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #article {
+    width: 20%;
+    /* centers element */
+    margin: 0 auto;
+    padding: 30px;
+    margin-bottom: 40px;
+    color: white;
+    background: #777;
+    
+    width: 180px;
+    height: 100px;
+    font-family: Arial;
+    font-size: 18px;
+  
+    
+  }
+  
+  #h1,h2,h3 {
+    width: 5%;
+    /* centers element */
+    margin: 0 auto;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: #333;
+    background: #eee;
+    /*border: #333 */    
+    text-align: center;
+    height: 10px;
+    
+  }
+  
+  
+  #heading {
+    width: 80%;
+    /* centers element */
+    margin: 0 auto;
+    padding: 1px 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #333;
+    background: white;
+   /*  border: #333*/
+   /* height: 30px */
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    
+  
+  
+  }
+  
+  #paragraph { 
+    width: 80%;
+    /* centers element */
+    margin: 0 auto;
+    padding: 1px 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: white;
+    border: #333
+    font-family: Arial;
+    font-size: 18px;
+    
+   
+  
+  }
+  
+  footer {
+  width: 80%;
+  clear: both;
+  /* centers element */
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 20px;
+  color: #333;
+  background: white;
+  text-align: center;
+  font-family: Arial;
+    font-size: 18px;
+  
+  
+  } 
